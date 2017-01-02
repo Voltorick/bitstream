@@ -1,2 +1,2 @@
-# bitstream
+# Bitstream
 A JavaScript Binary Reader.
